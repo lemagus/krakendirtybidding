@@ -1,0 +1,98 @@
+[
+   {
+      "ref": "XBT",
+      "code": "BTC",
+      "name": "Bitoin",
+      "lowest": 0.002
+   },
+   {
+      "ref": "BCH",
+      "code": "BCH",
+      "name": "Bitcoin cash",
+      "lowest": 0.002
+   },
+   {
+      "ref": "DASH",
+      "code": "DASH",
+      "name": "Dash",
+      "lowest": 0.03
+   },
+   {
+      "ref": "EOS",
+      "code": "EOS",
+      "name": "EOS",
+      "lowest": 3
+   },
+   {
+      "ref": "ETC",
+      "code": "ETC",
+      "name": "Ethereum Classic",
+      "lowest": 0.03
+   },
+   {
+      "ref": "ETH",
+      "code": "ETH",
+      "name": "Ethereum",
+      "lowest": 0.02
+   },
+   {
+      "ref": "GNO",
+      "code": "GNO",
+      "name": "Gnosis",
+      "lowest": 0.03
+   },
+   {
+      "ref": "ICN",
+      "code": "ICN",
+      "name": "Iconomi",
+      "lowest": 2
+   },
+   {
+      "ref": "LTC",
+      "code": "LTC",
+      "name": "Litecoin",
+      "lowest": 0.1
+   },
+   {
+      "ref": "MLN",
+      "code": "MLN",
+      "name": "Melon",
+      "lowest": 0.1
+   },
+   {
+      "ref": "REP",
+      "code": "REP",
+      "name": "Augur",
+      "lowest": 0.3
+   },
+   {
+      "ref": "XDG",
+      "code": "DOGE",
+      "name": "Dogecoin",
+      "lowest": 3000
+   },
+   {
+      "ref": "XLM",
+      "code": "XLM",
+      "name": "Stellar",
+      "lowest": 300
+   },
+   {
+      "ref": "XMR",
+      "code": "XMR",
+      "name": "Monero",
+      "lowest": 0.1
+   },
+   {
+      "ref": "XRP",
+      "code": "XRP",
+      "name": "Ripple",
+      "lowest": 30
+   },
+   {
+      "ref": "ZEC",
+      "code": "ZEC",
+      "name": "ZCash",
+      "lowest": 0.03
+   }
+]

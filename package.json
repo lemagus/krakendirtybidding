@@ -1,0 +1,16 @@
+{
+  "name": "magus-kraken",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "fs": "0.0.1-security",
+    "kraken-api": "^1.0.0",
+    "kraken-js-client": "^1.1.10",
+    "moment": "^2.20.1",
+    "monk": "^6.0.5",
+    "node-fetch": "^1.7.3"
+  }
+}
